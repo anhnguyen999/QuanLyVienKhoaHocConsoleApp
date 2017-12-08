@@ -9,5 +9,6 @@ namespace QuanLyVienKhoaHoc.Entities
     class NhanVien
     {
         //code changed
+        //Code hoan thanh lop nhan vien
     }
 }
